@@ -1,4 +1,4 @@
-# AcademicTrack Pro 🇵🇭  
+# Free k12 Grading System 
 **DepEd-Aligned K12 Grading System with AI Integration**  
 *(For Philippine Schools and Academic Institutions)*  
 

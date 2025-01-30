@@ -103,7 +103,7 @@ function calculateFinalGrade(ww, pt, qa) {
 ## 📅 Roadmap  
 - [ ] Mobile app (React Native)  
 - [ ] Integration with DepEd LMS  
-- [ ] AI-powered grade predictions (Q3 2024)  
+- [ ] AI-powered grade predictions (Q2 2025)  
 - [ ] Regional division benchmarking  
 
 ## 📜 License  
